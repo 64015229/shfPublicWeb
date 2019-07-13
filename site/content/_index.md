@@ -1,7 +1,7 @@
 ---
 title: WELCOME TO SUN HAPPY FEET MASSAGE CLINIC
 subtitle: '* GET RELAXED *'
-image: /img/7c35130c2ca54f4a8d1b727cb01e3079.jpg
+image: /img/shf_hero.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
