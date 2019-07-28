@@ -3,31 +3,26 @@ title: WELCOME TO SUN HAPPY FEET MASSAGE CLINIC
 subtitle: '* GET RELAXED *'
 image: /img/shf_hero.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Treat yourself, or someone you love, to massage therapy - a truly relaxing
-    and renewing experience.
+  heading: Call (972) 332-8558 for Appointment
+  text: '431 East Stacy Road Suite 107, Fairview TX, 75069'
 intro:
-  heading: What we offer
+  heading: Service
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Whether you’re just getting started with a Swedish massage or reflexology,
+    enjoying a romantic couple’s massage for two, or healing your body with a
+    sports massage, Sun Happy Feet Massage Clinic is your go-to massage station.
+
+
+    That will take you away from the stress of everyday life.
 products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/90.jpg
+    text: Body Massage 90 min $90
+  - image: /img/60.jpg
+    text: Body Massage 60 min $60
+  - image: /img/30-1.jpg
+    text: Therapeutic Massage 30 min $45
+  - image: /img/feet1.jpg
+    text: Feet Reflexology COMBO 60 min
 values:
   heading: Our values
   text: >-
