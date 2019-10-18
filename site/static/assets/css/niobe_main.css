@@ -247,6 +247,12 @@ h6 {
     font-size: 18px !important;
     line-height: 26px !important;
 }
+
+.text-extra-extra-large {
+    font-size: 32px !important;
+    line-height: 36px !important;
+}
+
 .title-small {
     font-size: 20px !important;
     line-height: 30px !important;
@@ -1896,9 +1902,9 @@ h6 {
 }
 .navbar .navbar-brand img {
     display: inline-block;
-    max-height: 43px;
+    max-height: 64px;
     position: absolute;
-    top: 18px;
+    top: 8px;
     left: auto;
 }
 .navbar .navbar-brand img.logo-navbar-white {
@@ -5313,12 +5319,12 @@ section {
         height: 60px;
     }
     .navbar.shrink .navbar-brand {
-        height: 60px;
+        height: 70px;
         line-height: 60px !important;
     }
     .navbar.shrink .navbar-brand img {
-        max-height: 38px;
-        top: 9px;
+        max-height: 64px;
+        top: 2px;
     }
     .navbar.shrink .navbar-nav > li {
         line-height: 60px !important;
