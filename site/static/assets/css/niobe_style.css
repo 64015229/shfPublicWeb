@@ -255,6 +255,14 @@
 
 
 
+/*------------------------------------*\
+    map
+\*------------------------------------*/
+#map {
+    background-image: url('../images/fairview-map.jpg');
+    background-position: center;
+    height:540px;
+}
 
 
 /*------------------------------------*\
