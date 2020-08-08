@@ -97,23 +97,23 @@
 */
 
 .btn.btn-base-color {
-    background-color: #56686e;
+    background-color: #b0b8ad;
 }
 .btn.btn-base-color.btn-hover-transparent:hover {
-    border-color: #56686e;
-    color: #56686e;
+    border-color: #b0b8ad;
+    color: #b0b8ad;
 }
 .btn.btn-outline-base-color {
-    border-color: #56686e;
-    color: #56686e;
+    border-color: #b0b8ad;
+    color: #b0b8ad;
 }
 .btn.btn-outline-base-color:hover,
 .btn.btn-outline-base-color:focus {
-    background-color: #56686e;
+    background-color: #b0b8ad;
 }
 .btn.btn-outline-base-color.btn-hover-transparent:hover,
 .btn.btn-outline-base-color.btn-hover-transparent:focus {
-    color: #56686e;
+    color: #b0b8ad;
 }
 
 
